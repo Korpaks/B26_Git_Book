@@ -4,3 +4,4 @@ Some random text
 We should commit after this
 
 bla bla bla
+
