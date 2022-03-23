@@ -1,0 +1,11 @@
+
+so far we learned git
+
+people are stuped
+
+commit --> push
+
+and
+
+remote--> local
+pull/update
